@@ -1,0 +1,12 @@
+C:\Users\Marcos\Desktop\catalog-service\src\main\java\com\example\catalogservice\controller\doc\ProductControllerDoc.java
+C:\Users\Marcos\Desktop\catalog-service\src\main\java\com\example\catalogservice\model\Product.java
+C:\Users\Marcos\Desktop\catalog-service\src\main\java\com\example\catalogservice\config\SwaggerConfig.java
+C:\Users\Marcos\Desktop\catalog-service\src\main\java\com\example\catalogservice\controller\doc\ProductController.java
+C:\Users\Marcos\Desktop\catalog-service\src\main\java\com\example\catalogservice\repository\ProductRepository.java
+C:\Users\Marcos\Desktop\catalog-service\src\main\java\com\example\catalogservice\CatalogServiceApplication.java
+C:\Users\Marcos\Desktop\catalog-service\src\main\java\com\example\catalogservice\exception\ResourceNotFoundException.java
+C:\Users\Marcos\Desktop\catalog-service\src\main\java\com\example\catalogservice\exception\GlobalExceptionHandler.java
+C:\Users\Marcos\Desktop\catalog-service\src\main\java\com\example\catalogservice\service\impl\ProductServiceImpl.java
+C:\Users\Marcos\Desktop\catalog-service\src\main\java\com\example\catalogservice\model\response\ApiResponse.java
+C:\Users\Marcos\Desktop\catalog-service\src\main\java\com\example\catalogservice\model\response\ProductResponse.java
+C:\Users\Marcos\Desktop\catalog-service\src\main\java\com\example\catalogservice\service\ProductService.java

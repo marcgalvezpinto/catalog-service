@@ -1,0 +1,15 @@
+com\example\catalogservice\model\response\ProductResponse$ProductResponseBuilder.class
+com\example\catalogservice\model\response\ProductResponse.class
+com\example\catalogservice\exception\ResourceNotFoundException.class
+com\example\catalogservice\config\SwaggerConfig.class
+com\example\catalogservice\model\response\ApiResponse$ApiResponseBuilder.class
+com\example\catalogservice\model\response\ApiResponse.class
+com\example\catalogservice\controller\doc\ProductControllerDoc.class
+com\example\catalogservice\controller\ProductController.class
+com\example\catalogservice\model\Product.class
+com\example\catalogservice\service\ProductService.class
+com\example\catalogservice\exception\GlobalExceptionHandler.class
+com\example\catalogservice\CatalogServiceApplication.class
+com\example\catalogservice\service\impl\ProductServiceImpl.class
+com\example\catalogservice\model\Product$ProductBuilder.class
+com\example\catalogservice\repository\ProductRepository.class
